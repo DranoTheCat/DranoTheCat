@@ -1,4 +1,4 @@
-![Hello Image](images/hello.gif?raw=true "Title")
+<p style="text-align: center;">![Hello Image](images/hello.gif?raw=true "Title")</p>
 
 Meow, or something.  I don't particularly like talking about myself.  I suppose I specialize in SRE, CI/CD, and general DevOps.
 
