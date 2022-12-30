@@ -1,4 +1,5 @@
 <p style="text-align: center;">
+  <img src="images/hello.gif" />
   [Hello Image](images/hello.gif?raw=true "Title")
 </p>
   
