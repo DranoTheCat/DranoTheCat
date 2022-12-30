@@ -1,6 +1,5 @@
 <p style="text-align: center;">
   <img src="images/hello.gif" />
-  [Hello Image](images/hello.gif?raw=true "Title")
 </p>
   
 Meow, or something.  I don't particularly like talking about myself.  I suppose I specialize in SRE, CI/CD, and general DevOps.
