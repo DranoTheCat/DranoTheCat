@@ -9,4 +9,4 @@ I don't particularly like talking about myself.  I suppose I specialize in SRE, 
 I also like art a lot, and love procedural generation stuffs.
 
 Some of my favorite projects:
-* ![Productivity Demons](https://productivitydemons.dranothecat.com)
+* [Productivity Demons](https://productivitydemons.dranothecat.com)
