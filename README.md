@@ -8,5 +8,7 @@ I don't particularly like talking about myself.  I suppose I specialize in SRE, 
 
 I also like art a lot, and love procedural generation stuffs.
 
+I have a website at <a href="www.dranothecat.com">www.dranothecat.com</a>
+
 Some of my favorite projects:
 * [Productivity Demons](https://productivitydemons.dranothecat.com)
